@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "https://github.com/Sayma-Patwekar/test-angular"
+    "registry": "http://18.138.251.37:9980/mithuntechnologies/repository/nodejs-mss/"
   },
   
   "scripts": {
@@ -27,11 +27,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sayma-Patwekar/test-angular/"
+    "url": "http://13.212.29.25:9980/mithuntechnologies/repository/nodejsproject/"
   },
   "keywords": [
     "node",
     "Mithun Technologies",
     "express"
   ],
+  "author": "Mithun Reddy Lacchannagari",
+  "license": "MIT"
 }
